@@ -1,1 +1,1 @@
-# AI-Driven-Hydroponic-System-for-Real-Time-Environmental-and-Nutrient-Optimization
+# Smart Hydroponics: Nutrient Detection and Management Using Deep Learning & IOT
